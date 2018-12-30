@@ -11,8 +11,4 @@ class App extends Component {
     );
   }
 }
-
-git config user.email "Benedictmiranda27@yahoo.com "
-git config user.name "John Benedict Miranda"
-
 export default App;
